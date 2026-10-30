@@ -429,6 +429,12 @@
             <a href="stock.php" class="nav-item">
                 <i class="fa-solid fa-book-open"></i> <span>Stock</span>
             </a>
+            <a href="cekharga.php" class="nav-item">
+                <i class="fa-solid fa-book-open"></i> <span>Cek Harga</span>
+            </a>
+            <a href="input_barang.php" class="nav-item">
+                <i class="fa-solid fa-book-open"></i> <span>Input Barang</span>
+            </a>
         </ul>
 
         <div class="menu-label" style="margin-top: 30px;">OTHERS</div>
